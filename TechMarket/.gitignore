@@ -1,0 +1,8 @@
+# folder bin
+packages/
+
+domain/bin/
+
+UnitTests/bin/
+
+WebUI/bin/
