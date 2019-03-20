@@ -20,3 +20,7 @@ body {
     padding-bot 10px;
     background-color: white;
 }
+
+head {
+    padding-top: 0px;
+}
